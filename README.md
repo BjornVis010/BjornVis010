@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OOP**
 
-- 👨‍💻 All of my projects are available at [https://bjornvis010.github.io](bjornvis010.github.io)
+- 👨‍💻 All of my projects are available at [https://bjornvis010.github.io](https://bjornvis010.github.io)
 
 - 📫 How to reach me **BjornVisImp@gmail.com**
 
